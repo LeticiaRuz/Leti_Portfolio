@@ -6,58 +6,58 @@ body{
 	background-repeat:no-repeat;
 }
 .fondo{
-    background-image:url('../assets/trabajos/paginaweb/portada.jpg');
+    background-image:url("../assets/trabajos/paginaweb/portada.jpg");
     width:400px;
     height:400px;
 }
 .fondoanimation{
-    background-image:url('../assets/trabajos/paginaweb/fondo_animation.jpg');
+    background-image:url("../assets/trabajos/paginaweb/fondo_animation.jpg");
     width:400px;
     height:400px;
 }
 .fondoanimationdosdos{
-    background-image:url('../assets/trabajos/paginaweb/fondo2d2.jpg');
+    background-image:url("../assets/trabajos/paginaweb/fondo2d2.jpg");
      width:400px;
     height:5500px;
 }
 .fondodmodels{
-    background-image:url('../assets/trabajos/paginaweb/fondorender.jpg');
+    background-image:url("../assets/trabajos/paginaweb/fondorender.jpg");
     width:400px;
     height:10000px;
 }
 .fondoillustration{
-    background-image:url('../assets/trabajos/paginaweb/illustration_fondo.jpg');
+    background-image:url("../assets/trabajos/paginaweb/illustration_fondo.jpg");
     width:400px;
     height:400px;
 }
 .fondoaboutme{
-    background-image:url('../assets/trabajos/paginaweb/fondoboutme.jpg');
+    background-image:url("../assets/trabajos/paginaweb/fondoboutme.jpg");
     width:400px;
     height:3000px;
 }
 
 .fondoddanimation {
-   background-image:url('../assets/trabajos/paginaweb/fondo2d.jpg');
+   background-image:url("../assets/trabajos/paginaweb/fondo2d.jpg");
     width:400px;
     height:2800px;
 }
 
 .fondodigitalart{
-   background-image:url('../assets/trabajos/paginaweb/pagina_ill_digital_art.jpg');
+   background-image:url("../assets/trabajos/paginaweb/pagina_ill_digital_art.jpg");
     width:400px;
     height:13450px;
 }
 
 .fondotresd
 {
-   background-image:url('../assets/trabajos/paginaweb/');
+   background-image:url("../assets/trabajos/paginaweb/");
     width:400px;
     height:10000px;
 }
 
 .fondohandmade
 {
-   background-image:url('../assets/trabajos/paginaweb/fondoillstracionhandmadel.jpg');
+   background-image:url("../assets/trabajos/paginaweb/fondoillstracionhandmadel.jpg");
     width:400px;
     height:10000px;
 }
@@ -65,13 +65,13 @@ body{
 
 .fondoddanimationtresd
 {
-   background-image:url('../assets/trabajos/paginaweb/fondoanimation3d.jpg');
+   background-image:url("../assets/trabajos/paginaweb/fondoanimation3d.jpg");
     width:400px;
     height:10000px;
 }
 .fondoddanimationtresddos
 {
-   background-image:url('../assets/trabajos/paginaweb/fondoanimation3d2.jpg');
+   background-image:url("../assets/trabajos/paginaweb/fondoanimation3d2.jpg");
     width:400px;
     height:10000px;
 }
