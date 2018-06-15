@@ -1,0 +1,181 @@
+/*FONDO PANTALLA PRINCIPAL*/
+body{
+	background-repeat:no-repeat;
+}
+.div{
+	background-repeat:no-repeat;
+}
+.fondo{
+    background-image:url('/Assets/trabajos/paginaweb/portada.jpg');
+    width:400px;
+    height:400px;
+}
+.fondoanimation{
+    background-image:url('/assets/trabajos/paginaweb/fondo_animation.jpg');
+    width:400px;
+    height:400px;
+}
+.fondoanimationdosdos{
+    background-image:url('/assets/trabajos/paginaweb/fondo2d2.jpg');
+     width:400px;
+    height:5500px;
+}
+.fondodmodels{
+    background-image:url('/assets/trabajos/paginaweb/fondorender.jpg');
+    width:400px;
+    height:10000px;
+}
+.fondoillustration{
+    background-image:url('/assets/trabajos/paginaweb/illustration_fondo.jpg');
+    width:400px;
+    height:400px;
+}
+.fondoaboutme{
+    background-image:url('/assets/trabajos/paginaweb/fondoboutme.jpg');
+    width:400px;
+    height:3000px;
+}
+
+.fondoddanimation {
+   background-image:url('/assets/trabajos/paginaweb/fondo2d.jpg');
+    width:400px;
+    height:2800px;
+}
+
+.fondodigitalart{
+   background-image:url('/assets/trabajos/paginaweb/pagina_ill_digital_art.jpg');
+    width:400px;
+    height:13450px;
+}
+
+.fondotresd
+{
+   background-image:url('/assets/trabajos/paginaweb/');
+    width:400px;
+    height:10000px;
+}
+
+.fondohandmade
+{
+   background-image:url('/assets/trabajos/paginaweb/fondoillstracionhandmadel.jpg');
+    width:400px;
+    height:10000px;
+}
+
+
+.fondoddanimationtresd
+{
+   background-image:url('/assets/trabajos/paginaweb/fondoanimation3d.jpg');
+    width:400px;
+    height:10000px;
+}
+.fondoddanimationtresddos
+{
+   background-image:url('/assets/trabajos/paginaweb/fondoanimation3d2.jpg');
+    width:400px;
+    height:10000px;
+}
+
+/***********************************************************************/
+
+
+
+ #botonretorno{
+	z-index:5;
+	background-color:pink;
+	position:absolute;
+    width:100px;
+    height:50px;
+	top:30px;
+	left:1800px;
+	border-radius:15px;
+}
+
+#animation{
+    position:absolute;
+    top:40px;
+    left:1170px;
+    width:200px;
+    height:70px;
+}
+
+#video1{
+    position:absolute;
+    top:640px;
+    left:137px;
+    width:200px;
+    height:70px;
+}
+
+
+#video{
+    position:absolute;
+    top:686px;
+    left:137px;
+    width:200px;
+    height:70px;
+}
+
+
+#dmodels{
+    position:fixed;
+    top:40px;
+    left:1370px;
+    width:200px;
+    height:70px;
+}
+
+#flecha{
+	z-index: 55;
+    position:absolute;
+    top:1727px;
+    left:1540px;
+    width:280px;
+    height:79px;
+}
+
+#illustration{
+    position:fixed;
+    top:40px;
+    left:1560px;
+    width:200px;
+    height:70px;
+}
+
+#about{
+    position:fixed;
+    top:1090px;
+    left:45px;
+    width:240px;
+    height:70px;
+}
+.ddanimation{
+    position:fixed;
+    top:80px;
+    left:1220px;
+    width:230px;
+    height:70px;
+}
+
+.ttanimation{
+    position:fixed;
+    top:140px;
+    left:1220px;
+    width:230px;
+    height:60px;
+}
+
+.digillustration{
+    position:fixed;
+    top:140px;
+    left:1620px;
+    width:180px;
+    height:60px;
+}
+.handllustration{
+    position:fixed;
+    top:84px;
+    left:1620px;
+    width:200px;
+    height:60px;
+}
